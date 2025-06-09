@@ -11,8 +11,3 @@ payload:
   - DOMAIN,fonts.gstatic.com
   - DOMAIN-SUFFIX,fastly.net
   - DOMAIN,cdn.jsdelivr.net
-  - DOMAIN-SUFFIX,gitbook.io
-  - DOMAIN-SUFFIX,gitbook.com
-
-
-
