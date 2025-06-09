@@ -1,0 +1,16 @@
+# 针对greasyfork的分流规则
+# by.Aeronde
+# REPO: https://github.com/Aeronde/greasyfork
+# UPDATED: 
+# DOMAIN: 
+# TOTAL: 4
+payload:
+  - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-SUFFIX,perfops.net
+  - DOMAIN-SUFFIX,tongyi.com
+  - DOMAIN,fonts.gstatic.com
+  - DOMAIN-SUFFIX,fastly.net
+  - DOMAIN,cdn.jsdelivr.net
+
+
+
